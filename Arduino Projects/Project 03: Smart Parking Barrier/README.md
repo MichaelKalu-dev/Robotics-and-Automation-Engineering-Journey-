@@ -46,7 +46,7 @@ How It Works
 
 Circuit Simulation
 
-![Circuit image](circuit.jpg)
+![Circuit image](Circuit.jpg)
 
 Project Concept
 
