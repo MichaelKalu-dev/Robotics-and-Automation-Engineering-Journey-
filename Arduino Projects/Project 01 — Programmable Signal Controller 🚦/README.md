@@ -4,6 +4,8 @@ Overview
 
 A traffic signal controller built with an Arduino Uno, three LEDs, and resistors. The system cycles through red, green, and yellow signals automatically using timed digital outputs.
 
+![Project Image](Project.png)
+
 Objectives
 
 - Control multiple digital outputs using Arduino.
