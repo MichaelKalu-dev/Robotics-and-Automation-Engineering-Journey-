@@ -46,11 +46,11 @@ How It Works
 
 Circuit Simulation
 
-"Smart Parking Barrier circuit simulation" (circuit.jpg)
+![Circuit image](circuit.jpg)
 
 Project Concept
 
-"Smart Parking Barrier concept" (Project.png)
+![Project Concept](Project.png)
 
 The concept image illustrates the intended system. The circuit screenshot shows the actual simulation.
 
