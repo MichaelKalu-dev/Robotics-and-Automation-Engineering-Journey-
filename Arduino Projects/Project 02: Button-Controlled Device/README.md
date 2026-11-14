@@ -4,6 +4,10 @@ Overview
 
 An Arduino-based controller operated by two push buttons. One button turns the system ON, while the other turns it OFF. Two LEDs indicate the current operating state.
 
+![Project Image](Project.png)
+
+
+
 Components
 
 - Arduino Uno R3
