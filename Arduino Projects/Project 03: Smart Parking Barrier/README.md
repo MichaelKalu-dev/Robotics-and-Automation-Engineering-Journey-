@@ -50,7 +50,7 @@ Circuit Simulation
 
 Project Concept
 
-![Project Concept](Project.png)
+![Project Concept](Project.jpg)
 
 The concept image illustrates the intended system. The circuit screenshot shows the actual simulation.
 
